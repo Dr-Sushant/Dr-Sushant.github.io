@@ -1,7 +1,8 @@
 # Where Medicine Meets the Machine  
 **Bridging Clinical Practice and Biomedical Data Science**
 
-📄 [Download White Paper (PDF)](stethtotech_whitepaper_final.pdf)  
+📄 [Download White Paper (PDF)](https://Dr-Sushant.github.io/stethtotech_whitepaper/stethtotech_whitepaper_final.pdf)
+ 
 🔖 Part 1 of the #StethToTech Series by Dr. Sushant Tapase
 
 ---
