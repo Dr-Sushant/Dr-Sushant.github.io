@@ -1,6 +1,4 @@
 # Where Medicine Meets the Machine  
-**Bridging Clinical Practice and Biomedical Data Science**
-# Where Medicine Meets the Machine  
 **Bridging Clinical Practice and Biomedical Data Science**  
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15786124-blue)](https://doi.org/10.5281/zenodo.15786124)
 
