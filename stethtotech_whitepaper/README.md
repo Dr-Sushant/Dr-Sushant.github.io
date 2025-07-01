@@ -21,7 +21,7 @@ Topics covered:
 ## Author
 
 **Dr. Sushant Tapase**  
-Physician | Biomedical Data Science Trainee | MBA (Healthcare & Hospital Management)  
+Physician | M.Tech Biomedical Data Science Trainee | MBA (Healthcare & Hospital Management)  
 > Bridging clinical insight with computational tools to reshape the future of care.
 
 ---
