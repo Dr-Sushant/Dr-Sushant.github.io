@@ -29,8 +29,6 @@ Physician | M.Tech Biomedical Data Science Trainee | MBA (Healthcare & Hospital 
 ---
 ## 📘 Citation
 
-If you use this white paper in your work, please cite it as:
-
 **Tapase, S.** (2025). *Where Medicine Meets the Machine: Bridging Clinical Practice and Biomedical Data Science.* Zenodo. [https://doi.org/10.5281/zenodo.15786124](https://doi.org/10.5281/zenodo.15786124)
 
 ---
