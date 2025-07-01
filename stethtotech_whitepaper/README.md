@@ -3,7 +3,8 @@
 
 📄 [Download White Paper (PDF)](https://Dr-Sushant.github.io/stethtotech_whitepaper/stethtotech_whitepaper_final.pdf)
  
-🔖 Part 1 of the #StethToTech Series by Dr. Sushant Tapase
+🔖 [Part 1: Where Medicine Meets the Machine](https://doi.org/10.5281/zenodo.15786124)
+
 
 ---
 
